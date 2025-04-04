@@ -1,0 +1,184 @@
+{
+    "leagues": [
+        {
+            "id": 233410,
+            "name": "ITF Women Vacaria - R1"
+        },
+        {
+            "id": 224962,
+            "name": "ITF Women Murska Sobota - R1"
+        },
+        {
+            "id": 10307,
+            "name": "ITF Women Antalya - R1"
+        },
+        {
+            "id": 211008,
+            "name": "ITF Men Santo Domingo - R1"
+        },
+        {
+            "id": 209990,
+            "name": "ITF Men Monastir - R1"
+        },
+        {
+            "id": 213451,
+            "name": "ITF Women Santo Domingo - R1"
+        },
+        {
+            "id": 258441,
+            "name": "ITF Men Alaminos - R1"
+        },
+        {
+            "id": 216649,
+            "name": "ITF Men Calabasas - R1"
+        },
+        {
+            "id": 9610,
+            "name": "ATP Challenger Medellin - R1"
+        },
+        {
+            "id": 260873,
+            "name": "ATP Miami - Doubles - QF"
+        },
+        {
+            "id": 234766,
+            "name": "WTA 125K Antalya - R1"
+        },
+        {
+            "id": 234704,
+            "name": "ITF Women Terrassa - R1"
+        },
+        {
+            "id": 216789,
+            "name": "ITF Men Saint Dizier - R1"
+        },
+        {
+            "id": 3926,
+            "name": "WTA Miami - QF"
+        },
+        {
+            "id": 3606,
+            "name": "ATP Miami - QF"
+        },
+        {
+            "id": 212564,
+            "name": "ITF Men Opatija - R1"
+        },
+        {
+            "id": 258587,
+            "name": "ITF Men Foggia - R16"
+        },
+        {
+            "id": 211930,
+            "name": "ATP Challenger Concepcion - R1"
+        },
+        {
+            "id": 3609,
+            "name": "ATP Miami - R16"
+        },
+        {
+            "id": 234714,
+            "name": "ITF Men Tarragona - R1"
+        },
+        {
+            "id": 234776,
+            "name": "WTA 125K Antalya - Doubles"
+        },
+        {
+            "id": 3931,
+            "name": "WTA Miami - R3"
+        },
+        {
+            "id": 224799,
+            "name": "ITF Men Tsukuba - R1"
+        },
+        {
+            "id": 234143,
+            "name": "WTA 125K Puerto Vallarta - R1"
+        },
+        {
+            "id": 234783,
+            "name": "ATP Challenger Naples - R16"
+        },
+        {
+            "id": 224990,
+            "name": "ITF Women Bujumbura - R1"
+        },
+        {
+            "id": 211932,
+            "name": "ATP Challenger Concepcion - R16"
+        },
+        {
+            "id": 210594,
+            "name": "ITF Men Heraklion - R1"
+        },
+        {
+            "id": 224800,
+            "name": "ITF Men Tsukuba - R16"
+        },
+        {
+            "id": 228064,
+            "name": "ITF Men Ahmedabad - R1"
+        },
+        {
+            "id": 234144,
+            "name": "WTA 125K Puerto Vallarta - R16"
+        },
+        {
+            "id": 263009,
+            "name": "ATP Challenger Morelia - R1"
+        },
+        {
+            "id": 263011,
+            "name": "ATP Challenger Morelia - R16"
+        },
+        {
+            "id": 197348,
+            "name": "ITF Women Nonthaburi - R1"
+        },
+        {
+            "id": 202410,
+            "name": "ITF Women Monastir - R1"
+        },
+        {
+            "id": 258473,
+            "name": "ITF Men Nonthaburi - R1"
+        },
+        {
+            "id": 207155,
+            "name": "ITF Women Heraklion - R1"
+        },
+        {
+            "id": 223154,
+            "name": "ITF Men Lujan - R16"
+        },
+        {
+            "id": 223153,
+            "name": "ITF Men Lujan - R1"
+        },
+        {
+            "id": 4789,
+            "name": "ATP Miami - Doubles"
+        },
+        {
+            "id": 4790,
+            "name": "WTA Miami - Doubles"
+        },
+        {
+            "id": 258427,
+            "name": "ITF Women Alaminos - R1"
+        },
+        {
+            "id": 258617,
+            "name": "ITF Men Foggia - R1"
+        },
+        {
+            "id": 224765,
+            "name": "ATP Challenger Girona - R16"
+        },
+        {
+            "id": 224764,
+            "name": "ATP Challenger Girona - R1"
+        }
+    ]
+}

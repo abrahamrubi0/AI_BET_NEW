@@ -1,0 +1,1904 @@
+{
+    "leagues": [
+        {
+            "id": 2048,
+            "name": "Germany - Regionalliga North"
+        },
+        {
+            "id": 2050,
+            "name": "Germany - Regionalliga West"
+        },
+        {
+            "id": 204807,
+            "name": "France - Ligue 1 Bookings"
+        },
+        {
+            "id": 197637,
+            "name": "Hong Kong - HKFA 1. Division"
+        },
+        {
+            "id": 197646,
+            "name": "England - Premier League 2 U21"
+        },
+        {
+            "id": 198670,
+            "name": "Poland - U19 League"
+        },
+        {
+            "id": 2065,
+            "name": "Germany - Oberliga Bayern Nord"
+        },
+        {
+            "id": 2066,
+            "name": "Germany - Oberliga Bayern Sud"
+        },
+        {
+            "id": 2067,
+            "name": "Germany - Cup"
+        },
+        {
+            "id": 2073,
+            "name": "Germany - Oberliga Baden-Wurttemberg"
+        },
+        {
+            "id": 218137,
+            "name": "Mali - Premiere Division"
+        },
+        {
+            "id": 199710,
+            "name": "Romania - Liga 2"
+        },
+        {
+            "id": 42016,
+            "name": "England - League 2 Corners"
+        },
+        {
+            "id": 2081,
+            "name": "Greece - Super League"
+        },
+        {
+            "id": 210983,
+            "name": "UAE - Reserve League U23"
+        },
+        {
+            "id": 238630,
+            "name": "Hong Kong - U22 League"
+        },
+        {
+            "id": 9253,
+            "name": "Vietnam - Cup"
+        },
+        {
+            "id": 10279,
+            "name": "Chile - Primera B"
+        },
+        {
+            "id": 2088,
+            "name": "Guatemala - Liga Nacional"
+        },
+        {
+            "id": 201775,
+            "name": "Estonia - Esiliiga A"
+        },
+        {
+            "id": 217134,
+            "name": "Romania - Liga 1 Women"
+        },
+        {
+            "id": 2095,
+            "name": "Hungary - NB 1"
+        },
+        {
+            "id": 10288,
+            "name": "Morocco - Cup"
+        },
+        {
+            "id": 198704,
+            "name": "England - FA Cup Bookings"
+        },
+        {
+            "id": 2117,
+            "name": "International - Friendlies"
+        },
+        {
+            "id": 2120,
+            "name": "Ireland - Premier"
+        },
+        {
+            "id": 2123,
+            "name": "Ireland - Division 1"
+        },
+        {
+            "id": 2125,
+            "name": "Ireland - Leinster Senior Cup"
+        },
+        {
+            "id": 220243,
+            "name": "Chile - Primera Division Women"
+        },
+        {
+            "id": 2133,
+            "name": "Israel - Ligat Leumit"
+        },
+        {
+            "id": 214101,
+            "name": "UEFA - Conference League"
+        },
+        {
+            "id": 201813,
+            "name": "USA - NPSL"
+        },
+        {
+            "id": 2136,
+            "name": "Israel - Premier League"
+        },
+        {
+            "id": 10336,
+            "name": "Belgium - Challenger Pro League Corners"
+        },
+        {
+            "id": 2147,
+            "name": "Italy - Cup"
+        },
+        {
+            "id": 211046,
+            "name": "Brazil - Cearense 2"
+        },
+        {
+            "id": 211044,
+            "name": "El Salvador - Reserve League U20"
+        },
+        {
+            "id": 9320,
+            "name": "Bulgaria - First League"
+        },
+        {
+            "id": 200809,
+            "name": "England - Central League Reserves"
+        },
+        {
+            "id": 200815,
+            "name": "France - National 2"
+        },
+        {
+            "id": 218223,
+            "name": "Ireland - Leinster Senior League"
+        },
+        {
+            "id": 2157,
+            "name": "Japan - J League"
+        },
+        {
+            "id": 2159,
+            "name": "Japan - J2 League"
+        },
+        {
+            "id": 10353,
+            "name": "India - Goa Professional League"
+        },
+        {
+            "id": 196725,
+            "name": "Slovakia - Super Liga Corners"
+        },
+        {
+            "id": 6267,
+            "name": "France - Ligue 1 Corners"
+        },
+        {
+            "id": 222328,
+            "name": "Czech Republic - 2. Liga Women"
+        },
+        {
+            "id": 201855,
+            "name": "Belarus - 1st Division"
+        },
+        {
+            "id": 222335,
+            "name": "Honduras - Liga de Ascenso"
+        },
+        {
+            "id": 6269,
+            "name": "Sweden - Allsvenskan Corners"
+        },
+        {
+            "id": 223358,
+            "name": "Puerto Rico - National League"
+        },
+        {
+            "id": 222343,
+            "name": "Honduras - Reserve League"
+        },
+        {
+            "id": 6276,
+            "name": "England - FA Cup Corners"
+        },
+        {
+            "id": 196742,
+            "name": "El Salvador - Primera Division"
+        },
+        {
+            "id": 203914,
+            "name": "Brazil - Paulista A3"
+        },
+        {
+            "id": 258186,
+            "name": "Dominican Republic - Copa de la LDF"
+        },
+        {
+            "id": 10380,
+            "name": "Kuwait - Premier League"
+        },
+        {
+            "id": 226450,
+            "name": "Argentina - Liga Pro Reserves"
+        },
+        {
+            "id": 2196,
+            "name": "Spain - La Liga"
+        },
+        {
+            "id": 196763,
+            "name": "South Africa - PSL"
+        },
+        {
+            "id": 203930,
+            "name": "Brazil - Piauiense"
+        },
+        {
+            "id": 197785,
+            "name": "Germany - Oberliga Mitterlrhein"
+        },
+        {
+            "id": 2203,
+            "name": "Latvia - Virsliga"
+        },
+        {
+            "id": 6299,
+            "name": "Austria - Bundesliga Corners"
+        },
+        {
+            "id": 2205,
+            "name": "Lebanon - Premier League"
+        },
+        {
+            "id": 6301,
+            "name": "USA - Major League Soccer Corners"
+        },
+        {
+            "id": 207005,
+            "name": "Mexico - Liga Premier Serie B"
+        },
+        {
+            "id": 196765,
+            "name": "South Africa - PSL Corners"
+        },
+        {
+            "id": 6303,
+            "name": "England - League 1 Corners"
+        },
+        {
+            "id": 207004,
+            "name": "Mexico - Liga Premier"
+        },
+        {
+            "id": 214179,
+            "name": "Australia - Queensland Premier League 2"
+        },
+        {
+            "id": 2211,
+            "name": "Lithuania -  A Lyga"
+        },
+        {
+            "id": 6308,
+            "name": "Japan - J League Corners"
+        },
+        {
+            "id": 196773,
+            "name": "Brazil - Sergipano"
+        },
+        {
+            "id": 6310,
+            "name": "Brazil - Serie A Corners"
+        },
+        {
+            "id": 6312,
+            "name": "Netherlands - Eredivisie Corners"
+        },
+        {
+            "id": 201899,
+            "name": "Macau - Primeira Divisao"
+        },
+        {
+            "id": 196776,
+            "name": "Russia - Supreme Division Women"
+        },
+        {
+            "id": 6319,
+            "name": "Italy - Cup Corners"
+        },
+        {
+            "id": 211116,
+            "name": "Rwanda - Premier League"
+        },
+        {
+            "id": 211123,
+            "name": "South Africa - Diski Challenge U23"
+        },
+        {
+            "id": 6323,
+            "name": "International - Friendlies Corners"
+        },
+        {
+            "id": 6325,
+            "name": "Germany - Cup Corners"
+        },
+        {
+            "id": 212154,
+            "name": "Italy - Primavera 3 U19"
+        },
+        {
+            "id": 2234,
+            "name": "Malaysia - Super League"
+        },
+        {
+            "id": 192701,
+            "name": "Brazil - Maranhense 1"
+        },
+        {
+            "id": 210115,
+            "name": "San Marino - Campionato"
+        },
+        {
+            "id": 2242,
+            "name": "Mexico - Primera Division"
+        },
+        {
+            "id": 6338,
+            "name": "FIFA - World Cup Qualifiers South America Corners"
+        },
+        {
+            "id": 209095,
+            "name": "Faroe Islands - 1. Deild"
+        },
+        {
+            "id": 2259,
+            "name": "Northern Ireland - Premiership"
+        },
+        {
+            "id": 9429,
+            "name": "Russia - Youth Championship U19"
+        },
+        {
+            "id": 192728,
+            "name": "Brazil - Paulista Corners"
+        },
+        {
+            "id": 211166,
+            "name": "Uganda - Premier League"
+        },
+        {
+            "id": 194780,
+            "name": "Slovenia - Prva Liga Corners"
+        },
+        {
+            "id": 9441,
+            "name": "Czech Republic - FNL"
+        },
+        {
+            "id": 211172,
+            "name": "Kosovo - Superliga"
+        },
+        {
+            "id": 2280,
+            "name": "Norway - Cup"
+        },
+        {
+            "id": 212200,
+            "name": "Kuwait - Division 1"
+        },
+        {
+            "id": 194796,
+            "name": "Australia - New South Wales League 1"
+        },
+        {
+            "id": 69875,
+            "name": "Hungary - NB 1 Corners"
+        },
+        {
+            "id": 224496,
+            "name": "Brazil - Rio Cup Women"
+        },
+        {
+            "id": 6388,
+            "name": "Sweden - Superettan Corners"
+        },
+        {
+            "id": 194804,
+            "name": "Ireland - Division 1 Corners"
+        },
+        {
+            "id": 210164,
+            "name": "Turkey - 3rd League Group 2"
+        },
+        {
+            "id": 217332,
+            "name": "Turkey - 3rd League Group 1"
+        },
+        {
+            "id": 6392,
+            "name": "Ireland - Premier Corners"
+        },
+        {
+            "id": 192764,
+            "name": "Switzerland - Challenge League Corners"
+        },
+        {
+            "id": 196865,
+            "name": "Honduras - Liga Nacional"
+        },
+        {
+            "id": 196870,
+            "name": "Italy - Cup Bookings"
+        },
+        {
+            "id": 196869,
+            "name": "Germany - Cup Bookings"
+        },
+        {
+            "id": 192778,
+            "name": "Brazil - Paraibano"
+        },
+        {
+            "id": 192782,
+            "name": "Israel - Premier League Women"
+        },
+        {
+            "id": 6416,
+            "name": "Belarus - Premier League"
+        },
+        {
+            "id": 6417,
+            "name": "China - Super League"
+        },
+        {
+            "id": 192784,
+            "name": "Netherlands - Eredivisie Women"
+        },
+        {
+            "id": 6419,
+            "name": "Thailand - League 1"
+        },
+        {
+            "id": 6421,
+            "name": "Poland - Ekstraklasa Corners"
+        },
+        {
+            "id": 6423,
+            "name": "Mexico - Primera Division Corners"
+        },
+        {
+            "id": 222490,
+            "name": "Ireland - Munster Senior League"
+        },
+        {
+            "id": 6426,
+            "name": "Denmark - Superliga Corners"
+        },
+        {
+            "id": 2331,
+            "name": "Norway - 1st Division"
+        },
+        {
+            "id": 6428,
+            "name": "Switzerland - Super League Corners"
+        },
+        {
+            "id": 2332,
+            "name": "Norway - 2nd Division"
+        },
+        {
+            "id": 218399,
+            "name": "Brazil - Amazonense"
+        },
+        {
+            "id": 2333,
+            "name": "Norway - Eliteserien"
+        },
+        {
+            "id": 6431,
+            "name": "Russia - Premier League Corners"
+        },
+        {
+            "id": 215328,
+            "name": "Spain - Primera RFEF Group 1"
+        },
+        {
+            "id": 209191,
+            "name": "Montenegro - Druga Liga"
+        },
+        {
+            "id": 210213,
+            "name": "Egypt - 2nd Division A"
+        },
+        {
+            "id": 202026,
+            "name": "Uzbekistan - Super League"
+        },
+        {
+            "id": 217399,
+            "name": "Italy - Serie C Group C"
+        },
+        {
+            "id": 2359,
+            "name": "Paraguay - Division Profesional"
+        },
+        {
+            "id": 2360,
+            "name": "Brazil - Paulista"
+        },
+        {
+            "id": 187707,
+            "name": "Kenya - Premier League"
+        },
+        {
+            "id": 217401,
+            "name": "Italy - Serie C Group A"
+        },
+        {
+            "id": 217400,
+            "name": "Italy - Serie C Group B"
+        },
+        {
+            "id": 9531,
+            "name": "Costa Rica - Primera Division"
+        },
+        {
+            "id": 2366,
+            "name": "Peru - Liga 1"
+        },
+        {
+            "id": 2373,
+            "name": "Poland - Cup"
+        },
+        {
+            "id": 196933,
+            "name": "Iceland - U19 League"
+        },
+        {
+            "id": 2374,
+            "name": "Poland - Ekstraklasa"
+        },
+        {
+            "id": 192841,
+            "name": "Brazil - Brasiliense"
+        },
+        {
+            "id": 10573,
+            "name": "Panama - Primera Division"
+        },
+        {
+            "id": 216397,
+            "name": "India - Delhi Premier League"
+        },
+        {
+            "id": 206162,
+            "name": "Serbia - Prva Liga"
+        },
+        {
+            "id": 10578,
+            "name": "India - I-League"
+        },
+        {
+            "id": 2386,
+            "name": "Portugal - Primeira Liga"
+        },
+        {
+            "id": 213328,
+            "name": "Slovenia - 3. SNL"
+        },
+        {
+            "id": 2387,
+            "name": "Portugal - Liga 2"
+        },
+        {
+            "id": 206165,
+            "name": "Montenegro - Prva Liga"
+        },
+        {
+            "id": 6486,
+            "name": "Belgium - Pro League Corners"
+        },
+        {
+            "id": 2395,
+            "name": "Romania - Liga 1"
+        },
+        {
+            "id": 6495,
+            "name": "France - Ligue 2 Corners"
+        },
+        {
+            "id": 200033,
+            "name": "UEFA - U17 Championship Qualifiers"
+        },
+        {
+            "id": 217445,
+            "name": "Qatar - 2nd Division Cup"
+        },
+        {
+            "id": 35174,
+            "name": "Russia - First League"
+        },
+        {
+            "id": 197989,
+            "name": "UEFA - Champions League Women Corners"
+        },
+        {
+            "id": 2406,
+            "name": "Russia - Premier League"
+        },
+        {
+            "id": 213349,
+            "name": "China - League Two"
+        },
+        {
+            "id": 201065,
+            "name": "USA - USL Championship"
+        },
+        {
+            "id": 10604,
+            "name": "Israel - Liga Alef"
+        },
+        {
+            "id": 227694,
+            "name": "Turkey - 3rd League Group 4"
+        },
+        {
+            "id": 5487,
+            "name": "England - Premier League Corners"
+        },
+        {
+            "id": 5488,
+            "name": "Italy - Serie A Corners"
+        },
+        {
+            "id": 2417,
+            "name": "Scotland - Championship"
+        },
+        {
+            "id": 35185,
+            "name": "CONCACAF - Gold Cup Qualifiers"
+        },
+        {
+            "id": 2418,
+            "name": "Scotland - League One"
+        },
+        {
+            "id": 5490,
+            "name": "Spain - La Liga Corners"
+        },
+        {
+            "id": 2419,
+            "name": "Scotland - League Two"
+        },
+        {
+            "id": 2420,
+            "name": "Scotland - Challenge Cup"
+        },
+        {
+            "id": 8564,
+            "name": "Germany - Bundesliga 3 Corners"
+        },
+        {
+            "id": 2421,
+            "name": "Scotland - Premiership"
+        },
+        {
+            "id": 6519,
+            "name": "Scotland - Premiership Corners"
+        },
+        {
+            "id": 9591,
+            "name": "Paraguay - Division Profesional Corners"
+        },
+        {
+            "id": 218491,
+            "name": "Finland - Ykkoscup"
+        },
+        {
+            "id": 212346,
+            "name": "Panama - Liga Prom"
+        },
+        {
+            "id": 210303,
+            "name": "Slovakia - 3. Liga"
+        },
+        {
+            "id": 198014,
+            "name": "Australia - A-League Women Corners"
+        },
+        {
+            "id": 2432,
+            "name": "Spain - Segunda Division"
+        },
+        {
+            "id": 208258,
+            "name": "Argentina - Primera Division Women"
+        },
+        {
+            "id": 2434,
+            "name": "Serbia - Super Liga"
+        },
+        {
+            "id": 2435,
+            "name": "Serbia - Cup"
+        },
+        {
+            "id": 202119,
+            "name": "Bulgaria - Second League"
+        },
+        {
+            "id": 2436,
+            "name": "Italy - Serie A"
+        },
+        {
+            "id": 2438,
+            "name": "Italy - Serie B"
+        },
+        {
+            "id": 208267,
+            "name": "Czech Republic - 1. Liga Women"
+        },
+        {
+            "id": 220555,
+            "name": "Australia - NPL Queensland Women"
+        },
+        {
+            "id": 8584,
+            "name": "Australia - NPL Queensland"
+        },
+        {
+            "id": 8586,
+            "name": "Australia - NPL Western Australia"
+        },
+        {
+            "id": 8588,
+            "name": "Australia - NPL New South Wales"
+        },
+        {
+            "id": 220558,
+            "name": "Australia - NPL Victoria Women"
+        },
+        {
+            "id": 208269,
+            "name": "Turkey - 2nd League"
+        },
+        {
+            "id": 220556,
+            "name": "Australia - NPL Northern NSW Women"
+        },
+        {
+            "id": 6543,
+            "name": "Germany - Regionalliga South West"
+        },
+        {
+            "id": 6545,
+            "name": "Germany - Regionalliga North East"
+        },
+        {
+            "id": 242066,
+            "name": "Brazil - Acreano"
+        },
+        {
+            "id": 220562,
+            "name": "Australia - NPL New South Wales Women"
+        },
+        {
+            "id": 198033,
+            "name": "India - Super League Corners"
+        },
+        {
+            "id": 6546,
+            "name": "Germany - Regionalliga Bavaria"
+        },
+        {
+            "id": 8594,
+            "name": "Australia - NPL Northern NSW"
+        },
+        {
+            "id": 218519,
+            "name": "Brazil - Sul-Matogrossense"
+        },
+        {
+            "id": 2453,
+            "name": "Slovakia - Super Liga"
+        },
+        {
+            "id": 11670,
+            "name": "China - Super League Corners"
+        },
+        {
+            "id": 201109,
+            "name": "Slovenia - 2. SNL"
+        },
+        {
+            "id": 2457,
+            "name": "Slovenia - Prva Liga"
+        },
+        {
+            "id": 2462,
+            "name": "Spain - Copa del Rey"
+        },
+        {
+            "id": 2464,
+            "name": "Spain - Segunda RFEF Group 1"
+        },
+        {
+            "id": 2465,
+            "name": "Spain - Segunda RFEF Group 2"
+        },
+        {
+            "id": 10658,
+            "name": "Chile - Primera Division Corners"
+        },
+        {
+            "id": 2466,
+            "name": "Spain - Segunda RFEF Group 3"
+        },
+        {
+            "id": 2467,
+            "name": "Spain - Segunda RFEF Group 4"
+        },
+        {
+            "id": 218535,
+            "name": "Gibraltar - Rock Cup"
+        },
+        {
+            "id": 218533,
+            "name": "Netherlands - Derde Divisie"
+        },
+        {
+            "id": 233892,
+            "name": "India - League Women"
+        },
+        {
+            "id": 2472,
+            "name": "CONMEBOL - Copa Sudamericana"
+        },
+        {
+            "id": 205225,
+            "name": "Vietnam - Womens National Cup"
+        },
+        {
+            "id": 2476,
+            "name": "Sweden - Superettan"
+        },
+        {
+            "id": 11693,
+            "name": "England - Northern Premier League"
+        },
+        {
+            "id": 200110,
+            "name": "FIFA - World Cup Qualifiers Europe Bookings"
+        },
+        {
+            "id": 11695,
+            "name": "England - Southern Premier League"
+        },
+        {
+            "id": 218547,
+            "name": "Brazil - Capixaba"
+        },
+        {
+            "id": 11697,
+            "name": "England - Isthmian Premier League"
+        },
+        {
+            "id": 2481,
+            "name": "Sweden - 2nd Div. Norra Svealand"
+        },
+        {
+            "id": 2484,
+            "name": "Sweden - 2nd Div. Sodra Gotaland"
+        },
+        {
+            "id": 2485,
+            "name": "Sweden - 2nd Div. Sodra Svealand"
+        },
+        {
+            "id": 2486,
+            "name": "Sweden - 2nd Div. Vastra Gotaland"
+        },
+        {
+            "id": 226745,
+            "name": "Mexico - U23 League"
+        },
+        {
+            "id": 201151,
+            "name": "Argentina - Primera C Metropolitana"
+        },
+        {
+            "id": 201149,
+            "name": "Argentina - Primera B Metropolitana"
+        },
+        {
+            "id": 11711,
+            "name": "Qatar - Stars League Corners"
+        },
+        {
+            "id": 198082,
+            "name": "Bulgaria - First League Corners"
+        },
+        {
+            "id": 6595,
+            "name": "Japan - League Cup Corners"
+        },
+        {
+            "id": 201159,
+            "name": "Switzerland - 1. Liga Classic"
+        },
+        {
+            "id": 6600,
+            "name": "Portugal - Primeira Liga Corners"
+        },
+        {
+            "id": 197064,
+            "name": "Scotland - Premier League Women"
+        },
+        {
+            "id": 201167,
+            "name": "Bahrain - 2nd Division"
+        },
+        {
+            "id": 2510,
+            "name": "Sweden - Division 1 Norra"
+        },
+        {
+            "id": 201165,
+            "name": "Mexico - Liga MX Women"
+        },
+        {
+            "id": 202195,
+            "name": "England - Championship Bookings"
+        },
+        {
+            "id": 2513,
+            "name": "Sweden - Division 1 Sodra"
+        },
+        {
+            "id": 2514,
+            "name": "Sweden - U21 League"
+        },
+        {
+            "id": 2517,
+            "name": "Switzerland - Super League"
+        },
+        {
+            "id": 2518,
+            "name": "Switzerland - Challenge League"
+        },
+        {
+            "id": 5591,
+            "name": "Colombia - Primera A"
+        },
+        {
+            "id": 217562,
+            "name": "Mexico - Liga TDP"
+        },
+        {
+            "id": 5593,
+            "name": "Uruguay - Primera Division"
+        },
+        {
+            "id": 6619,
+            "name": "UEFA - Youth League U19"
+        },
+        {
+            "id": 5596,
+            "name": "Venezuela - Primera Division"
+        },
+        {
+            "id": 202207,
+            "name": "Scotland - Football League"
+        },
+        {
+            "id": 5598,
+            "name": "Ecuador - Serie A"
+        },
+        {
+            "id": 219613,
+            "name": "Brazil - Amapaense"
+        },
+        {
+            "id": 215521,
+            "name": "France - National 3"
+        },
+        {
+            "id": 6633,
+            "name": "Poland - 1st Liga"
+        },
+        {
+            "id": 201199,
+            "name": "Croatia - U19 League"
+        },
+        {
+            "id": 207341,
+            "name": "Italy - Primavera 2 U19"
+        },
+        {
+            "id": 201210,
+            "name": "Croatia - 2. NL"
+        },
+        {
+            "id": 215545,
+            "name": "France - Feminine Division 2"
+        },
+        {
+            "id": 6650,
+            "name": "Israel - Premier League Corners"
+        },
+        {
+            "id": 10747,
+            "name": "Algeria - League 2 U21"
+        },
+        {
+            "id": 212479,
+            "name": "South Africa - 1st Division"
+        },
+        {
+            "id": 10750,
+            "name": "UAE - U21 League"
+        },
+        {
+            "id": 202243,
+            "name": "Trinidad and Tobago - TT Pro League"
+        },
+        {
+            "id": 8705,
+            "name": "Germany - Bundesliga U19"
+        },
+        {
+            "id": 206343,
+            "name": "England - Championship Women"
+        },
+        {
+            "id": 205322,
+            "name": "USA - USL League One"
+        },
+        {
+            "id": 8713,
+            "name": "England - Women Super League"
+        },
+        {
+            "id": 6666,
+            "name": "Denmark - Division 1 Corners"
+        },
+        {
+            "id": 6668,
+            "name": "Ecuador - Serie A Corners"
+        },
+        {
+            "id": 201234,
+            "name": "Azerbaijan - Division 1"
+        },
+        {
+            "id": 2578,
+            "name": "Turkey - 1st League"
+        },
+        {
+            "id": 201238,
+            "name": "Norway - U19 League"
+        },
+        {
+            "id": 6678,
+            "name": "England - National League Corners"
+        },
+        {
+            "id": 210452,
+            "name": "Spain - Segunda RFEF Group 5"
+        },
+        {
+            "id": 2586,
+            "name": "Turkey - Cup"
+        },
+        {
+            "id": 10780,
+            "name": "Brazil - Goiano"
+        },
+        {
+            "id": 212509,
+            "name": "Gambia - GFA League"
+        },
+        {
+            "id": 214556,
+            "name": "Wales - Championship"
+        },
+        {
+            "id": 2592,
+            "name": "Turkey - Super League"
+        },
+        {
+            "id": 202276,
+            "name": "Portugal - U23 Championship"
+        },
+        {
+            "id": 10792,
+            "name": "Saudi Arabia - Champions Cup"
+        },
+        {
+            "id": 242216,
+            "name": "USA - USL Super League Women"
+        },
+        {
+            "id": 216620,
+            "name": "Oman - 1st Division"
+        },
+        {
+            "id": 205367,
+            "name": "Austria - Womens Cup"
+        },
+        {
+            "id": 203318,
+            "name": "Hungary - NB 1 Women"
+        },
+        {
+            "id": 6713,
+            "name": "Netherlands - Eerste Divisie Corners"
+        },
+        {
+            "id": 213561,
+            "name": "Switzerland - Cup Women"
+        },
+        {
+            "id": 205369,
+            "name": "Uruguay - Segunda Division"
+        },
+        {
+            "id": 225854,
+            "name": "Uruguay - Amateur Cup"
+        },
+        {
+            "id": 218691,
+            "name": "Brazil - Rondoniense"
+        },
+        {
+            "id": 218689,
+            "name": "Belgium - 2nd Amateur Division"
+        },
+        {
+            "id": 2627,
+            "name": "UEFA - Champions League"
+        },
+        {
+            "id": 212550,
+            "name": "North Macedonia - 2nd League"
+        },
+        {
+            "id": 2630,
+            "name": "UEFA - Europa League"
+        },
+        {
+            "id": 201290,
+            "name": "USA - National Womens Soccer League"
+        },
+        {
+            "id": 218702,
+            "name": "Spain - Primera RFEF Group 2"
+        },
+        {
+            "id": 6735,
+            "name": "Spain - Copa del Rey Corners"
+        },
+        {
+            "id": 9809,
+            "name": "Hong Kong - Premier League"
+        },
+        {
+            "id": 2642,
+            "name": "UEFA - Champions League Women"
+        },
+        {
+            "id": 221776,
+            "name": "Serbia - Super Liga Women"
+        },
+        {
+            "id": 2650,
+            "name": "Ukraine - Premier League"
+        },
+        {
+            "id": 212575,
+            "name": "Italy - Serie D Group D"
+        },
+        {
+            "id": 212573,
+            "name": "Italy - Serie D Group B"
+        },
+        {
+            "id": 6756,
+            "name": "Greece - Super League Corners"
+        },
+        {
+            "id": 209510,
+            "name": "Australia - NorZone Premier League"
+        },
+        {
+            "id": 2662,
+            "name": "USA - Open Cup"
+        },
+        {
+            "id": 209509,
+            "name": "Japan - Nadeshiko Division 2 Women"
+        },
+        {
+            "id": 6758,
+            "name": "Czech Republic - Czech Liga Corners"
+        },
+        {
+            "id": 2663,
+            "name": "USA - Major League Soccer"
+        },
+        {
+            "id": 209517,
+            "name": "Japan - Nadeshiko Division 1 Women"
+        },
+        {
+            "id": 201331,
+            "name": "England - Southern Football League Division 1"
+        },
+        {
+            "id": 201334,
+            "name": "Brazil - Paulista A4"
+        },
+        {
+            "id": 2678,
+            "name": "Wales - Premier League"
+        },
+        {
+            "id": 6775,
+            "name": "Austria - 2. Liga Corners"
+        },
+        {
+            "id": 205439,
+            "name": "Estonia - Meistriliiga Women"
+        },
+        {
+            "id": 6782,
+            "name": "Australia - A League Corners"
+        },
+        {
+            "id": 210556,
+            "name": "Costa Rica - Ascenso"
+        },
+        {
+            "id": 6784,
+            "name": "Japan - J2 League Corners"
+        },
+        {
+            "id": 10883,
+            "name": "Brazil - Copa Do Nordeste"
+        },
+        {
+            "id": 197248,
+            "name": "Ecuador - Serie B"
+        },
+        {
+            "id": 10885,
+            "name": "Brazil - Pernambucano"
+        },
+        {
+            "id": 202382,
+            "name": "Slovakia - Liga I Women"
+        },
+        {
+            "id": 10895,
+            "name": "Czech Republic - U19 League"
+        },
+        {
+            "id": 211601,
+            "name": "Zambia - Super League"
+        },
+        {
+            "id": 201364,
+            "name": "Brazil - Brasileiro Women"
+        },
+        {
+            "id": 238234,
+            "name": "England - National League Cup"
+        },
+        {
+            "id": 6811,
+            "name": "Turkey - Super League Corners"
+        },
+        {
+            "id": 6814,
+            "name": "Portugal - Liga 2 Corners"
+        },
+        {
+            "id": 213666,
+            "name": "Australia - Queensland Premier League"
+        },
+        {
+            "id": 6820,
+            "name": "Argentina - Primera B Nacional Corners"
+        },
+        {
+            "id": 6824,
+            "name": "Scotland - Championship Corners"
+        },
+        {
+            "id": 10921,
+            "name": "Colombia - Primera B"
+        },
+        {
+            "id": 9902,
+            "name": "Jordan - Pro League"
+        },
+        {
+            "id": 198316,
+            "name": "England - Professional Development League U21"
+        },
+        {
+            "id": 236215,
+            "name": "Ethiopia - Premier League Women"
+        },
+        {
+            "id": 198331,
+            "name": "Israel - Liga Bet"
+        },
+        {
+            "id": 1722,
+            "name": "Albania - Superliga"
+        },
+        {
+            "id": 216761,
+            "name": "Hong Kong - HKFA 2. Division"
+        },
+        {
+            "id": 207551,
+            "name": "Korea Republic - K League 1"
+        },
+        {
+            "id": 1725,
+            "name": "Algeria - Cup"
+        },
+        {
+            "id": 1728,
+            "name": "Sweden - Allsvenskan"
+        },
+        {
+            "id": 207554,
+            "name": "Korea Republic - K4 League"
+        },
+        {
+            "id": 207553,
+            "name": "Korea Republic - K3 League"
+        },
+        {
+            "id": 207552,
+            "name": "Korea Republic - K League 2"
+        },
+        {
+            "id": 207559,
+            "name": "Korea Republic - K League 1 Corners"
+        },
+        {
+            "id": 207560,
+            "name": "Korea Republic - K League 2 Corners"
+        },
+        {
+            "id": 1739,
+            "name": "Argentina - Primera B Nacional"
+        },
+        {
+            "id": 1741,
+            "name": "Argentina - Cup"
+        },
+        {
+            "id": 1742,
+            "name": "Armenia - Premier League"
+        },
+        {
+            "id": 9945,
+            "name": "Singapore - Cup"
+        },
+        {
+            "id": 1756,
+            "name": "Australia - Victoria Premier League 1"
+        },
+        {
+            "id": 214748,
+            "name": "Argentina - Youth League U20"
+        },
+        {
+            "id": 210657,
+            "name": "Malta - Challenge League"
+        },
+        {
+            "id": 201441,
+            "name": "Colombia - Liga Women"
+        },
+        {
+            "id": 209638,
+            "name": "Belgium - Reserve Pro League U21"
+        },
+        {
+            "id": 1766,
+            "name": "Australia - A League"
+        },
+        {
+            "id": 72425,
+            "name": "Colombia - Primera A Corners"
+        },
+        {
+            "id": 1769,
+            "name": "Australia - NPL Victoria"
+        },
+        {
+            "id": 72427,
+            "name": "Croatia - HNL Corners"
+        },
+        {
+            "id": 72429,
+            "name": "Costa Rica - Primera Division Corners"
+        },
+        {
+            "id": 1773,
+            "name": "Austria - 2. Liga"
+        },
+        {
+            "id": 5874,
+            "name": "Germany - Bundesliga Corners"
+        },
+        {
+            "id": 206582,
+            "name": "England - National League Premier Women"
+        },
+        {
+            "id": 217845,
+            "name": "Brazil - Tocantinense"
+        },
+        {
+            "id": 1785,
+            "name": "Austria - Regionalliga Mitte"
+        },
+        {
+            "id": 5886,
+            "name": "Germany - Bundesliga 2 Corners"
+        },
+        {
+            "id": 5888,
+            "name": "Norway - Eliteserien Corners"
+        },
+        {
+            "id": 201475,
+            "name": "Kenya - Super League"
+        },
+        {
+            "id": 1792,
+            "name": "Austria - Bundesliga"
+        },
+        {
+            "id": 1797,
+            "name": "Bahrain - Premier League"
+        },
+        {
+            "id": 5896,
+            "name": "Italy - Serie B Corners"
+        },
+        {
+            "id": 210697,
+            "name": "Argentina - Liga Pro"
+        },
+        {
+            "id": 5898,
+            "name": "Spain - Segunda Division Corners"
+        },
+        {
+            "id": 210705,
+            "name": "Argentina - Liga Pro Corners"
+        },
+        {
+            "id": 1817,
+            "name": "Belgium - Pro League"
+        },
+        {
+            "id": 1818,
+            "name": "Belgium - Challenger Pro League"
+        },
+        {
+            "id": 201501,
+            "name": "Austria - Landesliga"
+        },
+        {
+            "id": 218917,
+            "name": "Brazil - Roraimense"
+        },
+        {
+            "id": 1834,
+            "name": "Brazil - Serie A"
+        },
+        {
+            "id": 204591,
+            "name": "Cambodia - Premier League"
+        },
+        {
+            "id": 10030,
+            "name": "Australia - A-League Women"
+        },
+        {
+            "id": 198451,
+            "name": "Brazil - Paraense"
+        },
+        {
+            "id": 5938,
+            "name": "England - Championship Corners"
+        },
+        {
+            "id": 1842,
+            "name": "Germany - Bundesliga"
+        },
+        {
+            "id": 1843,
+            "name": "Germany - Bundesliga 2"
+        },
+        {
+            "id": 214839,
+            "name": "Uruguay - Reserve League"
+        },
+        {
+            "id": 1844,
+            "name": "Germany - Bundesliga 3"
+        },
+        {
+            "id": 1845,
+            "name": "Germany - Bundesliga Women"
+        },
+        {
+            "id": 1849,
+            "name": "Cameroon - Elite One"
+        },
+        {
+            "id": 199487,
+            "name": "Nigeria - NPFL"
+        },
+        {
+            "id": 197439,
+            "name": "Germany - Bundesliga Bookings"
+        },
+        {
+            "id": 197438,
+            "name": "England - Premier League Bookings"
+        },
+        {
+            "id": 198461,
+            "name": "Spain - Copa del Rey Bookings"
+        },
+        {
+            "id": 1857,
+            "name": "Chile - Primera Division"
+        },
+        {
+            "id": 197440,
+            "name": "Italy - Serie A Bookings"
+        },
+        {
+            "id": 1863,
+            "name": "Club Friendlies"
+        },
+        {
+            "id": 6985,
+            "name": "Poland - 1st Liga Corners"
+        },
+        {
+            "id": 6990,
+            "name": "FIFA - World Cup Qualifiers Africa Corners"
+        },
+        {
+            "id": 207693,
+            "name": "England - Isthmian Division 1 SE"
+        },
+        {
+            "id": 211794,
+            "name": "Brazil - Copa Alagoas"
+        },
+        {
+            "id": 1875,
+            "name": "CONMEBOL - Copa Libertadores"
+        },
+        {
+            "id": 223067,
+            "name": "Myanmar - Women League"
+        },
+        {
+            "id": 1880,
+            "name": "Croatia - HNL"
+        },
+        {
+            "id": 1881,
+            "name": "Croatia - Prva NL"
+        },
+        {
+            "id": 197471,
+            "name": "Germany - Oberliga Westfalen"
+        },
+        {
+            "id": 197470,
+            "name": "Germany - Oberliga Niederrhein"
+        },
+        {
+            "id": 198494,
+            "name": "Uruguay - Primera Division Corners"
+        },
+        {
+            "id": 10078,
+            "name": "Japan - J3 League"
+        },
+        {
+            "id": 1887,
+            "name": "Cyprus - 1st Division"
+        },
+        {
+            "id": 10083,
+            "name": "India - Super League"
+        },
+        {
+            "id": 1891,
+            "name": "Czech Republic - Czech Liga"
+        },
+        {
+            "id": 215919,
+            "name": "Japan - Women Empowerment League"
+        },
+        {
+            "id": 228205,
+            "name": "Czech Republic - 3. Liga CFL"
+        },
+        {
+            "id": 1904,
+            "name": "Denmark - Division 1"
+        },
+        {
+            "id": 228208,
+            "name": "Turkey - 1. Lig U19"
+        },
+        {
+            "id": 1913,
+            "name": "Denmark - Superliga"
+        },
+        {
+            "id": 208767,
+            "name": "Aruba - Divison di Honor"
+        },
+        {
+            "id": 4993,
+            "name": "Finland - League Cup"
+        },
+        {
+            "id": 4995,
+            "name": "Japan - League Cup"
+        },
+        {
+            "id": 1928,
+            "name": "Netherlands - Eredivisie"
+        },
+        {
+            "id": 1929,
+            "name": "Netherlands - Eerste Divisie"
+        },
+        {
+            "id": 48010,
+            "name": "Australia - A League Bookings"
+        },
+        {
+            "id": 238476,
+            "name": "Greece - Super League Women"
+        },
+        {
+            "id": 210842,
+            "name": "FIFA - World Cup Qualifiers South America Bookings"
+        },
+        {
+            "id": 1946,
+            "name": "Egypt - Cup"
+        },
+        {
+            "id": 218013,
+            "name": "Mauritania - Ligue 1"
+        },
+        {
+            "id": 1951,
+            "name": "England - National League North"
+        },
+        {
+            "id": 1952,
+            "name": "England - National League South"
+        },
+        {
+            "id": 192419,
+            "name": "France - National Corners"
+        },
+        {
+            "id": 192416,
+            "name": "Turkey - 1st League Corners"
+        },
+        {
+            "id": 224160,
+            "name": "Italy - Serie B Women"
+        },
+        {
+            "id": 1957,
+            "name": "England - League 1"
+        },
+        {
+            "id": 219046,
+            "name": "Australia - Queensland Premier League Women"
+        },
+        {
+            "id": 1958,
+            "name": "England - League 2"
+        },
+        {
+            "id": 238504,
+            "name": "Ghana - Division 1"
+        },
+        {
+            "id": 209838,
+            "name": "Denmark - Division 1 Women"
+        },
+        {
+            "id": 198578,
+            "name": "Thailand - League 1 Corners"
+        },
+        {
+            "id": 201654,
+            "name": "New Zealand - Central League"
+        },
+        {
+            "id": 201658,
+            "name": "New Zealand - Northern League"
+        },
+        {
+            "id": 1977,
+            "name": "England - Championship"
+        },
+        {
+            "id": 1978,
+            "name": "England - National League"
+        },
+        {
+            "id": 1979,
+            "name": "England - FA Cup"
+        },
+        {
+            "id": 201656,
+            "name": "New Zealand - Southern League"
+        },
+        {
+            "id": 1980,
+            "name": "England - Premier League"
+        },
+        {
+            "id": 8126,
+            "name": "UAE - Pro League"
+        },
+        {
+            "id": 8128,
+            "name": "Qatar - Stars League"
+        },
+        {
+            "id": 201664,
+            "name": "Chile - Segunda Division"
+        },
+        {
+            "id": 1989,
+            "name": "Estonia - Meistriliiga"
+        },
+        {
+            "id": 219077,
+            "name": "Switzerland - Promotion League"
+        },
+        {
+            "id": 191446,
+            "name": "England - Isthmian Division 1 South"
+        },
+        {
+            "id": 16340,
+            "name": "Romania - Liga 1 Corners"
+        },
+        {
+            "id": 210902,
+            "name": "Brazil - Brasileiro U20"
+        },
+        {
+            "id": 191445,
+            "name": "England - Isthmian Division 1 North"
+        },
+        {
+            "id": 191450,
+            "name": "Germany - Oberliga Rheinland-Pfalz/Saar"
+        },
+        {
+            "id": 191451,
+            "name": "Germany - Oberliga Schleswig-Holstein"
+        },
+        {
+            "id": 191448,
+            "name": "Germany - Oberliga Nordost Nord"
+        },
+        {
+            "id": 191454,
+            "name": "Germany - Oberliga Niedersachsen"
+        },
+        {
+            "id": 2013,
+            "name": "FIFA - World Cup Qualifiers Africa"
+        },
+        {
+            "id": 191455,
+            "name": "Sweden - 2nd Div. Norra Gotaland"
+        },
+        {
+            "id": 208861,
+            "name": "Tajikistan - Higher League"
+        },
+        {
+            "id": 191453,
+            "name": "Germany - Oberliga Hamburg"
+        },
+        {
+            "id": 2016,
+            "name": "FIFA - World Cup Qualifiers South America"
+        },
+        {
+            "id": 2020,
+            "name": "Finland - Cup"
+        },
+        {
+            "id": 2024,
+            "name": "Finland - Veikkausliiga"
+        },
+        {
+            "id": 32746,
+            "name": "Spain - La Liga Bookings"
+        },
+        {
+            "id": 2027,
+            "name": "France - National"
+        },
+        {
+            "id": 215023,
+            "name": "Portugal - Liga 3"
+        },
+        {
+            "id": 202739,
+            "name": "Guatemala - Primera Division de Ascenso"
+        },
+        {
+            "id": 2032,
+            "name": "France - Cup"
+        },
+        {
+            "id": 219120,
+            "name": "USA - MLS Next Pro League"
+        },
+        {
+            "id": 2036,
+            "name": "France - Ligue 1"
+        },
+        {
+            "id": 2037,
+            "name": "France - Ligue 2"
+        },
+        {
+            "id": 216059,
+            "name": "Brazil - Copa Rio U20"
+        },
+        {
+            "id": 10236,
+            "name": "Georgia - Erovnuli Liga"
+        },
+        {
+            "id": 216061,
+            "name": "Brazil - Goiano U20"
+        }
+    ]
+}

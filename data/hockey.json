@@ -1,0 +1,132 @@
+{
+    "leagues": [
+        {
+            "id": 216131,
+            "name": "Europe - Alps Hockey League"
+        },
+        {
+            "id": 1282,
+            "name": "Belarus - Extraleague"
+        },
+        {
+            "id": 1413,
+            "name": "France - Ligue Magnus"
+        },
+        {
+            "id": 1477,
+            "name": "Poland - Polska Hokey Liga"
+        },
+        {
+            "id": 234180,
+            "name": "PWHL Women"
+        },
+        {
+            "id": 217161,
+            "name": "Sweden - HockeyEttan"
+        },
+        {
+            "id": 1419,
+            "name": "Germany - DEL"
+        },
+        {
+            "id": 1484,
+            "name": "Russia - Kontinental Hockey League"
+        },
+        {
+            "id": 1293,
+            "name": "Canada - Ontario Hockey League"
+        },
+        {
+            "id": 222925,
+            "name": "Czech Republic - Extraliga U20"
+        },
+        {
+            "id": 217164,
+            "name": "Norway - 1st Division"
+        },
+        {
+            "id": 1295,
+            "name": "Canada - Quebec Major Junior Hockey League"
+        },
+        {
+            "id": 1297,
+            "name": "Czech Republic - Extraliga"
+        },
+        {
+            "id": 1497,
+            "name": "Slovakia - 1. Liga"
+        },
+        {
+            "id": 1498,
+            "name": "Slovakia - Extraliga"
+        },
+        {
+            "id": 5154,
+            "name": "Russia - Vysshaya hokkeinaya Liga"
+        },
+        {
+            "id": 1379,
+            "name": "Finland -  Suomi Sarja U20"
+        },
+        {
+            "id": 1512,
+            "name": "Sweden - Hockey Allsvenskan"
+        },
+        {
+            "id": 1517,
+            "name": "Sweden - SHL"
+        },
+        {
+            "id": 149036,
+            "name": "Germany - DEL 2"
+        },
+        {
+            "id": 149037,
+            "name": "Russia - Junior Hockey League (MHL)"
+        },
+        {
+            "id": 1264,
+            "name": "USA -  American Hockey League"
+        },
+        {
+            "id": 1456,
+            "name": "NHL"
+        },
+        {
+            "id": 4529,
+            "name": "Finland - Mestis"
+        },
+        {
+            "id": 206706,
+            "name": "England - Elite League"
+        },
+        {
+            "id": 206705,
+            "name": "Czech Republic - 1. Liga"
+        },
+        {
+            "id": 206704,
+            "name": "Canada - Western Hockey League"
+        },
+        {
+            "id": 1401,
+            "name": "Finland - SM Liiga"
+        },
+        {
+            "id": 1275,
+            "name": "Austria - EHL"
+        },
+        {
+            "id": 1532,
+            "name": "Switzerland - Nationalliga A"
+        },
+        {
+            "id": 211710,
+            "name": "Hungary - Erste Liga"
+        },
+        {
+            "id": 211517,
+            "name": "Ukraine - Hockey League"
+        }
+    ]
+}

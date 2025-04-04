@@ -1,0 +1,12 @@
+{
+    "leagues": [
+        {
+            "id": 1654,
+            "name": "NRL"
+        },
+        {
+            "id": 1655,
+            "name": "Super League"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "leagues": [
+        {
+            "id": 720,
+            "name": "India - Indian Premier League"
+        },
+        {
+            "id": 5347,
+            "name": "One Day International"
+        },
+        {
+            "id": 212283,
+            "name": "Twenty20 International - Women"
+        },
+        {
+            "id": 212895,
+            "name": "Australia - Sheffield Shield"
+        },
+        {
+            "id": 5180,
+            "name": "Twenty20 International"
+        }
+    ]
+}

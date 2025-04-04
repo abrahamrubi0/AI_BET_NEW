@@ -1,0 +1,160 @@
+{
+    "leagues": [
+        {
+            "id": 1217,
+            "name": "Sweden - Elitserien Women"
+        },
+        {
+            "id": 216135,
+            "name": "Germany - Bundesliga 2 Women"
+        },
+        {
+            "id": 215436,
+            "name": "Switzerland - Nationalliga A"
+        },
+        {
+            "id": 1107,
+            "name": "Germany - Bundesliga"
+        },
+        {
+            "id": 215568,
+            "name": "Hungary - NB 1 Women"
+        },
+        {
+            "id": 216405,
+            "name": "Norway - Division 1 Women"
+        },
+        {
+            "id": 215514,
+            "name": "Denmark - Division 1"
+        },
+        {
+            "id": 215386,
+            "name": "Japan - League Women"
+        },
+        {
+            "id": 215385,
+            "name": "Japan - League"
+        },
+        {
+            "id": 215516,
+            "name": "Hungary - NB 1"
+        },
+        {
+            "id": 224099,
+            "name": "Lithuania - Lietuvos Lyga"
+        },
+        {
+            "id": 212006,
+            "name": "Germany - Bundesliga Women"
+        },
+        {
+            "id": 5095,
+            "name": "Sweden - Handbollsligan"
+        },
+        {
+            "id": 5096,
+            "name": "Denmark - Haandboldligaen"
+        },
+        {
+            "id": 212010,
+            "name": "France - Division 1 Women"
+        },
+        {
+            "id": 212008,
+            "name": "Czech Republic - Extraliga"
+        },
+        {
+            "id": 212015,
+            "name": "Austria - HLA"
+        },
+        {
+            "id": 1197,
+            "name": "Spain - Division de Honor Plata"
+        },
+        {
+            "id": 215597,
+            "name": "France - Pro League"
+        },
+        {
+            "id": 211309,
+            "name": "Korea - First League - Women"
+        },
+        {
+            "id": 222892,
+            "name": "Turkey - Superlig"
+        },
+        {
+            "id": 211308,
+            "name": "Korea - First League"
+        },
+        {
+            "id": 216108,
+            "name": "Austria - WHA Women"
+        },
+        {
+            "id": 216243,
+            "name": "Slovakia - Extraliga"
+        },
+        {
+            "id": 212019,
+            "name": "Poland - Superliga"
+        },
+        {
+            "id": 211891,
+            "name": "European League"
+        },
+        {
+            "id": 1200,
+            "name": "Spain - Liga Asobal"
+        },
+        {
+            "id": 216818,
+            "name": "Montenegro - Prva Liga"
+        },
+        {
+            "id": 222897,
+            "name": "Serbia - Superliga"
+        },
+        {
+            "id": 216945,
+            "name": "Denmark - Kvindeligaen Women"
+        },
+        {
+            "id": 212016,
+            "name": "Finland - SM liiga"
+        },
+        {
+            "id": 212023,
+            "name": "Germany - Bundesliga 2"
+        },
+        {
+            "id": 215414,
+            "name": "Romania - Liga Nationala"
+        },
+        {
+            "id": 212020,
+            "name": "Poland - Superliga Women"
+        },
+        {
+            "id": 1080,
+            "name": "France - Division 1"
+        },
+        {
+            "id": 215614,
+            "name": "Norway - Eliteserien Women"
+        },
+        {
+            "id": 1021,
+            "name": "Europe - Champions League"
+        },
+        {
+            "id": 215613,
+            "name": "Norway - Eliteserien"
+        },
+        {
+            "id": 215612,
+            "name": "Norway - Division 1"
+        }
+    ]
+}

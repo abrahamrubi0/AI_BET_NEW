@@ -1,0 +1,24 @@
+{
+    "leagues": [
+        {
+            "id": 5425,
+            "name": "MLB - Pre Season"
+        },
+        {
+            "id": 219649,
+            "name": "Triple A Minor League"
+        },
+        {
+            "id": 6227,
+            "name": "Korea Professional Baseball"
+        },
+        {
+            "id": 187703,
+            "name": "Nippon Professional Baseball"
+        },
+        {
+            "id": 246,
+            "name": "MLB"
+        }
+    ]
+}

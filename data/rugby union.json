@@ -1,0 +1,32 @@
+{
+    "leagues": [
+        {
+            "id": 216083,
+            "name": "United Rugby Championship"
+        },
+        {
+            "id": 213014,
+            "name": "Pro D2"
+        },
+        {
+            "id": 224484,
+            "name": "USA - Major League Rugby"
+        },
+        {
+            "id": 218635,
+            "name": "Super Rugby - Pacific"
+        },
+        {
+            "id": 213016,
+            "name": "Japan Top League"
+        },
+        {
+            "id": 4479,
+            "name": "Gallagher Premiership"
+        },
+        {
+            "id": 1663,
+            "name": "France Top  14"
+        }
+    ]
+}
